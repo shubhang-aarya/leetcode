@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhang-aarya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhang-aarya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
