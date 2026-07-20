@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhang-aarya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/shubhang-aarya/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shubhang-aarya/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/shubhang-aarya/leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/shubhang-aarya/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
