@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhang-aarya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/shubhang-aarya/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shubhang-aarya/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shubhang-aarya/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shubhang-aarya/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/shubhang-aarya/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shubhang-aarya/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shubhang-aarya/leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shubhang-aarya/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
