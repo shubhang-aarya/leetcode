@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isPal(string &s, int l, int r) {
+    bool isPal(string s) {
         string s2=s;
         reverse(s2.begin(),s2.end());
         return s==s2;
@@ -15,7 +15,7 @@ public:
         for (int i = 0; i < s.size(); i++) {
             string curr = s.substr(0, i + 1);
 
-            if (isPal(curr, 0, curr.size() - 1)) {
+            if (isPal(curr)) {
                 parts.push_back(curr);
                 part(s.substr(i + 1), parts, ans);
                 parts.pop_back();
