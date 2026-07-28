@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shubhang-aarya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/shubhang-aarya/leetcode/tree/master/2596-check-knight-tour-configuration) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shubhang-aarya/leetcode/tree/master/0037-sudoku-solver) |
+| [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
