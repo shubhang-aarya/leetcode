@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhang-aarya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0400-nth-digit](https://github.com/shubhang-aarya/leetcode/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
+| [0400-nth-digit](https://github.com/shubhang-aarya/leetcode/tree/master/0400-nth-digit) |
 ## Two Pointers
 |  |
 | ------- |
