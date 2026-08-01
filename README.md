@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shubhang-aarya/leetcode/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/shubhang-aarya/leetcode/tree/master/0131-palindrome-partitioning) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shubhang-aarya/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhang-aarya/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhang-aarya/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
