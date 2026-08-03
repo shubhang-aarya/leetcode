@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shubhang-aarya/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/shubhang-aarya/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shubhang-aarya/leetcode/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/shubhang-aarya/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/shubhang-aarya/leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 ## Math
 |  |
 | ------- |
@@ -100,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhang-aarya/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
