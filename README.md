@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shubhang-aarya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/shubhang-aarya/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/shubhang-aarya/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3731-find-missing-elements](https://github.com/shubhang-aarya/leetcode/tree/master/3731-find-missing-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/shubhang-aarya/leetcode/tree/master/0400-nth-digit) |
 | [0877-stone-game](https://github.com/shubhang-aarya/leetcode/tree/master/0877-stone-game) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhang-aarya/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
