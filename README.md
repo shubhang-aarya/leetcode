@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shubhang-aarya/leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shubhang-aarya/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhang-aarya/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/shubhang-aarya/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/shubhang-aarya/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shubhang-aarya/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shubhang-aarya/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhang-aarya/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhang-aarya/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
