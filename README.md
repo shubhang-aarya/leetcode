@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/shubhang-aarya/leetcode/tree/master/0400-nth-digit) |
 | [0877-stone-game](https://github.com/shubhang-aarya/leetcode/tree/master/0877-stone-game) |
+| [1486-xor-operation-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhang-aarya/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
