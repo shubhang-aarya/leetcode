@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shubhang-aarya/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/shubhang-aarya/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/shubhang-aarya/leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhang-aarya/leetcode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/shubhang-aarya/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
