@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shubhang-aarya/leetcode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/shubhang-aarya/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/shubhang-aarya/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/shubhang-aarya/leetcode/tree/master/0709-to-lower-case) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shubhang-aarya/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhang-aarya/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/shubhang-aarya/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2596-check-knight-tour-configuration](https://github.com/shubhang-aarya/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 ## Math
