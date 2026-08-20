@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/shubhang-aarya/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shubhang-aarya/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/shubhang-aarya/leetcode/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/shubhang-aarya/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shubhang-aarya/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
 | [0400-nth-digit](https://github.com/shubhang-aarya/leetcode/tree/master/0400-nth-digit) |
