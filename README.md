@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shubhang-aarya/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shubhang-aarya/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shubhang-aarya/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2596-check-knight-tour-configuration](https://github.com/shubhang-aarya/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shubhang-aarya/leetcode/tree/master/0709-to-lower-case) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shubhang-aarya/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhang-aarya/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shubhang-aarya/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shubhang-aarya/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/shubhang-aarya/leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhang-aarya/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhang-aarya/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/shubhang-aarya/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
