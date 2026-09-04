@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/shubhang-aarya/leetcode/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
