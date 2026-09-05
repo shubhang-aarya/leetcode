@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2942-find-words-containing-character](https://github.com/shubhang-aarya/leetcode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhang-aarya/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shubhang-aarya/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhang-aarya/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shubhang-aarya/leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/shubhang-aarya/leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhang-aarya/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shubhang-aarya/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
