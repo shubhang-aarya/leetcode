@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/shubhang-aarya/leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhang-aarya/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shubhang-aarya/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3870-count-commas-in-range](https://github.com/shubhang-aarya/leetcode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
