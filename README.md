@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shubhang-aarya/leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shubhang-aarya/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/shubhang-aarya/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/shubhang-aarya/leetcode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/shubhang-aarya/leetcode/tree/master/0877-stone-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubhang-aarya/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/shubhang-aarya/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/shubhang-aarya/leetcode/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shubhang-aarya/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shubhang-aarya/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/shubhang-aarya/leetcode/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shubhang-aarya/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shubhang-aarya/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shubhang-aarya/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhang-aarya/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhang-aarya/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shubhang-aarya/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shubhang-aarya/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/shubhang-aarya/leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shubhang-aarya/leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/shubhang-aarya/leetcode/tree/master/0400-nth-digit) |
 | [0877-stone-game](https://github.com/shubhang-aarya/leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shubhang-aarya/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shubhang-aarya/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shubhang-aarya/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shubhang-aarya/leetcode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhang-aarya/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/shubhang-aarya/leetcode/tree/master/2679-sum-in-a-matrix) |
